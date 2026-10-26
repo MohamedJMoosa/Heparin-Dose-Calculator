@@ -1,11 +1,11 @@
 {
-    "name": "salman_app",
-    "short_name": "salman_app",
+    "name": "Heparin Dose Calculator",
+    "short_name": "Heparin Dose Calculator",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Heparin dose calculator.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
