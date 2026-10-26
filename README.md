@@ -4,6 +4,14 @@ A clinical medical tool designed to calculate Heparin dosages (initial bolus, in
 
 ---
 
+## Use the Calculator Online 🌐
+
+No installation is needed. Open the calculator directly in your browser:
+
+[**Open Heparin Dose Calculator →**](https://mohamedjmoosa.github.io/Heparin-Dose-Calculator/)
+
+---
+
 ## Features ✨
 
 * **Accurate & Rapid Calculations:** Eliminates manual calculation errors in high-pressure clinical environments.
